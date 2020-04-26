@@ -1,2 +1,5 @@
 node_modules
-src/config
+
+src/config/auth.ts
+tmp/*
+!tmp/.gitkeep
